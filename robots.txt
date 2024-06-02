@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://satya-indra.github.io/profile/sitemap.xml
+Sitemap: https://satya-indra.github.io//sitemap.xml
