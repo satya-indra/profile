@@ -1,9 +1,9 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Satyendra Yadav",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "satyendra.yadav@gmail.com",
     "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
@@ -46,6 +46,28 @@
     }
   ],
   "education": [
+    {
+      "institution": "CDAC Acts",
+      "location": "Pune, India",
+      "url": "https://www.uzh.ch/",
+      "area": "Post Grad Diploma In Advanced Computing",
+      "studyType": "Diploma",
+      "startDate": "2019-01-01",
+      "endDate": "2020-01-01",
+      "score": "10",
+      "courses": ["Operating System, Data Strcutre and Algorithm"]
+    },
+    {
+      "institution": "Symbiosis Intitute Of Technology",
+      "location": "Pune, India",
+      "url": "https://www.uzh.ch/",
+      "area": "Physics",
+      "studyType": "Msc",
+      "startDate": "2012-01-01",
+      "endDate": "2014-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity, Quantum Mechanics, Numerical Analysis"]
+    },
     {
       "institution": "University of Zurich, Zurich, Switzerland",
       "location": "Zurich, Switzerland",
